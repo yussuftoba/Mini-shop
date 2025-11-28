@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Mini_Shop.Core/Mini_Shop.Core.csproj" Id="8fe21fdf-d508-4ef4-ae6a-18dbab10ffa4" />
+  <Project Path="../Mini_Shop.Infrastructure/Mini_Shop.Infrastructure.csproj" Id="854580b8-a7d8-4936-9cd6-efb454630748" />
+  <Project Path="Mini_Shop/Mini_Shop.csproj" />
+</Solution>
